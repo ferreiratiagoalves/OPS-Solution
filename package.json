@@ -1,0 +1,22 @@
+{
+  "name": "ops-solution",
+  "version": "1.0.0",
+  "description": "Site OPS Solution",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferreiratiagoalves/OPS-Solution.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ferreiratiagoalves/OPS-Solution/issues"
+  },
+  "homepage": "https://github.com/ferreiratiagoalves/OPS-Solution#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
